@@ -1,6 +1,6 @@
 # Autenticação Facial - Reconhecimento Facial para Controle de Acesso
-Situação [<span style="color: green;">Concluido</span>]
-\
+Situação [<s style="color: green;">Concluido</s>]
+
 <div align="center">
     <img src="./camys.gif" alt="Sistema Camys" />
 </div>
